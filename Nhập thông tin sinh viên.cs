@@ -8,7 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+// Commit 4: sửa format điểm
 namespace StudentManager
 {
     public partial class Nhập_thông_tin_sinh_viên : DevExpress.XtraEditors.XtraForm
