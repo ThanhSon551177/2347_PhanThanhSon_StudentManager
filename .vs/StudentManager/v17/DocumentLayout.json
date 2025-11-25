@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Baitapthaygiao\\ThayHuy\\StudentManager_bai2\\",
+  "WorkspaceRootPath": "D:\\Baitapthaygiao\\BTTH1va2_N\u1ED9pthayHUY\\BTTH1va2\\StudentManager_bai2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{973A6104-EDDA-45D8-8BCF-397906BAFEAC}|StudentManager.csproj|D:\\Baitapthaygiao\\ThayHuy\\StudentManager_bai2\\studentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{973A6104-EDDA-45D8-8BCF-397906BAFEAC}|StudentManager.csproj|d:\\baitapthaygiao\\btth1va2_n\u1ED9pthayhuy\\btth1va2\\studentmanager_bai2\\studentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{973A6104-EDDA-45D8-8BCF-397906BAFEAC}|StudentManager.csproj|solutionrelative:studentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{973A6104-EDDA-45D8-8BCF-397906BAFEAC}|StudentManager.csproj|d:\\baitapthaygiao\\thayhuy\\studentmanager_bai2\\studentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{973A6104-EDDA-45D8-8BCF-397906BAFEAC}|StudentManager.csproj|D:\\Baitapthaygiao\\BTTH1va2_N\u1ED9pthayHUY\\BTTH1va2\\StudentManager_bai2\\studentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{973A6104-EDDA-45D8-8BCF-397906BAFEAC}|StudentManager.csproj|solutionrelative:studentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{973A6104-EDDA-45D8-8BCF-397906BAFEAC}|StudentManager.csproj|D:\\Baitapthaygiao\\ThayHuy\\StudentManager_bai2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{973A6104-EDDA-45D8-8BCF-397906BAFEAC}|StudentManager.csproj|D:\\Baitapthaygiao\\BTTH1va2_N\u1ED9pthayHUY\\BTTH1va2\\StudentManager_bai2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{973A6104-EDDA-45D8-8BCF-397906BAFEAC}|StudentManager.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,9 +36,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "StudentManager.cs",
-              "DocumentMoniker": "D:\\Baitapthaygiao\\ThayHuy\\StudentManager_bai2\\StudentManager.cs",
+              "DocumentMoniker": "D:\\Baitapthaygiao\\BTTH1va2_N\u1ED9pthayHUY\\BTTH1va2\\StudentManager_bai2\\StudentManager.cs",
               "RelativeDocumentMoniker": "StudentManager.cs",
-              "ToolTip": "D:\\Baitapthaygiao\\ThayHuy\\StudentManager_bai2\\StudentManager.cs",
+              "ToolTip": "D:\\Baitapthaygiao\\BTTH1va2_N\u1ED9pthayHUY\\BTTH1va2\\StudentManager_bai2\\StudentManager.cs",
               "RelativeToolTip": "StudentManager.cs",
               "ViewState": "AgIAAFEAAAAAAAAAAAAtwFsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -49,9 +49,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "StudentManager.cs [Design]",
-              "DocumentMoniker": "D:\\Baitapthaygiao\\ThayHuy\\StudentManager_bai2\\StudentManager.cs",
+              "DocumentMoniker": "D:\\Baitapthaygiao\\BTTH1va2_N\u1ED9pthayHUY\\BTTH1va2\\StudentManager_bai2\\StudentManager.cs",
               "RelativeDocumentMoniker": "StudentManager.cs",
-              "ToolTip": "D:\\Baitapthaygiao\\ThayHuy\\StudentManager_bai2\\StudentManager.cs [Design]",
+              "ToolTip": "D:\\Baitapthaygiao\\BTTH1va2_N\u1ED9pthayHUY\\BTTH1va2\\StudentManager_bai2\\StudentManager.cs [Design]",
               "RelativeToolTip": "StudentManager.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-10T12:40:03.22Z",
@@ -61,9 +61,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Baitapthaygiao\\ThayHuy\\StudentManager_bai2\\Program.cs",
+              "DocumentMoniker": "D:\\Baitapthaygiao\\BTTH1va2_N\u1ED9pthayHUY\\BTTH1va2\\StudentManager_bai2\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Baitapthaygiao\\ThayHuy\\StudentManager_bai2\\Program.cs",
+              "ToolTip": "D:\\Baitapthaygiao\\BTTH1va2_N\u1ED9pthayHUY\\BTTH1va2\\StudentManager_bai2\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
